@@ -1,1 +1,2 @@
-https://github.com/onceupon/Bash-Oneliner?tab=readme-ov-file#terminal-tricks
+https://github.com/onceupon/Bash-Oneliner?tab=readme-ov-file#terminal-tricks - набор полезных команд
+https://github.com/ruanyf/simple-bash-scripts - набор простых bash скриптов
